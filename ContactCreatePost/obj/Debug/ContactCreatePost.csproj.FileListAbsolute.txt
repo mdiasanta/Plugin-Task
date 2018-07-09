@@ -1,0 +1,9 @@
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\bin\Debug\ContactCreatePost.dll
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\bin\Debug\ContactCreatePost.pdb
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\bin\Debug\Microsoft.Xrm.Sdk.dll
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\bin\Debug\Microsoft.Xrm.Sdk.xml
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\obj\Debug\ContactCreatePost.csprojResolveAssemblyReference.cache
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\obj\Debug\ContactCreatePost.dll
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\obj\Debug\ContactCreatePost.pdb
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+\\ruhome\mdiasanta$\Desktop\ContactCreatePost\ContactCreatePost\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
